@@ -1,0 +1,5 @@
+# The results of the letter were produced with Python 3.12, numpy 2.4, scipy 1.17 and
+# matplotlib 3.10/3.11. Newer versions are expected to work.
+numpy>=2.0
+scipy>=1.13
+matplotlib>=3.8

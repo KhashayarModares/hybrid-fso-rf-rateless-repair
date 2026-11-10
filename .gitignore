@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# simulation outputs (several GB for a full reproduction)
+outputs/
+results/
+*.npz
+*.tgz
