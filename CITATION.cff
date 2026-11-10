@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the letter given under preferred-citation."
+type: software
+title: "Simulation code for rateless transmission over hybrid FSO/RF links with delivery deadlines"
+authors:
+  - family-names: "Modarres"
+    given-names: "Seyed Khashayar"
+repository-code: "https://github.com/KhashayarModares/hybrid-fso-rf-rateless-repair"
+license: MIT
+keywords:
+  - "hybrid FSO/RF"
+  - "rateless codes"
+  - "correlated channels"
+  - "feedback"
+  - "deadline outage"
+preferred-citation:
+  type: article
+  title: "Rateless Transmission over Hybrid FSO/RF Links with Delivery Deadlines"
+  status: in-preparation
+  year: 2026
+  authors:
+    - family-names: "Modarres"
+      given-names: "Seyed Khashayar"
+    - family-names: "Chrysologou"
+      given-names: "Athanasios P."
+    - family-names: "Chatzidiamantis"
+      given-names: "Nestor"
+    - family-names: "Schober"
+      given-names: "Robert"
+    - family-names: "Papanikolaou"
+      given-names: "Vasilis K."
